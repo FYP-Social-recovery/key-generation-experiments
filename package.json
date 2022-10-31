@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "bip44": "^0.0.1",
+    "bip44-constants": "^169.0.0",
+    "bip86": "^0.0.2",
+    "eth-crypto": "^2.4.0",
+    "hd-wallets": "^0.0.8",
+    "hex-generator": "^1.0.1",
+    "hex-to-binary": "^1.0.1"
+  }
+}
